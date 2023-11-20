@@ -1,6 +1,6 @@
 <fable>
 	<page background="noite_dark.png" soundtrack="Fear.mp3">
-        <agent x 
+        <agent x="175" y="250" text=
            
   </page>
 </fable>
